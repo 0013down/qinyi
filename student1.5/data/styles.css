@@ -54,6 +54,10 @@
   font-size:10px;
   text-align:left;
 }
+.label {
+  font-size:14px;
+  text-align:left;
+}
 .paragraph {
   text-align:left;
 }
@@ -82,6 +86,13 @@
   text-align:left;
 }
 .connector {
+  font-family:'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
 }
 .table_cell {
 }
@@ -93,6 +104,9 @@
 }
 .sticky_4 {
   text-align:left;
+}
+.marker {
+  color:#FFFFFF;
 }
 .sticky_2 {
   text-align:left;
